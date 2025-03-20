@@ -1,5 +1,5 @@
 h1, h2 {
-  font-family: Arial;
+  /* font-family: 'Segoe Script'; */
   color: grey;
 }
 
@@ -9,5 +9,9 @@ h1 {
 }
 
 p {
+  /* font-family: 'Segoe Script'; */
   color: maroon;
+}
+body{
+  font-family: 'Segoe Script';
 }
