@@ -1,0 +1,84 @@
+body {
+    font-size: small; /*新的属性值，请自行了解 */
+    font-family: Verdana, Helvetica, Arial;
+    line-height: 1.6em;
+} 
+h1,h2 {
+   color: #007e7e;
+   font-weight: 600;
+}
+h1 {
+    font-size: 1.5em;
+    font-weight: 200;
+}
+h2 {
+    font-size: 1.3em;
+}
+p,body,h1 {
+  margin:0%;
+  padding:0%;
+}
+.guarantee {
+  border-color: white;
+  border-width: 1px;
+  border-style: dashed;
+  background-color: #a7cece;
+  padding: 25px; 
+  margin: 30px;
+  line-height: 1.9em;
+  font-style: italic;
+  color: #444444;
+  font-family: Georgia,"Times New Roman";
+  background-image: url(images/background.gif);
+  background-repeat: no-repeat;
+  background-position: top left;
+  padding: 25px;
+  padding-left: 80px;
+  margin-right: 250px;
+  border-top-left-radius: 2em;
+  border-bottom-right-radius: 2em;
+}
+.elixirs {
+  border-width: thin;
+  border-style: solid;
+  border-color: #007e7e;
+  width: 200px;
+  padding: 0px 20px 20px 20px;
+  margin-left:     20px;
+  background-image:     url(images/cocktail.gif);
+  background-repeat:    repeat-x;
+  text-align:           center;
+  line-height: 1;
+}
+.spcials h2{
+  color: #000
+}
+.spcials h3 {
+         color: #d12c47;
+}
+.cd {
+    font-style: italic;
+    display: inline-block;
+    width: 500px;
+}
+.artist {
+    font-weight: bold;
+}
+a:link {
+  color: green;
+}
+a:visited {
+  color: red;
+}
+a:hover {
+  color: yellow;
+}
+.green-font {
+     color: green;
+}
+.red-font {
+     color: red;
+}
+.blue-font {
+      color: blue;
+}
